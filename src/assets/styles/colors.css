@@ -1,0 +1,16 @@
+/* Color Pallete */
+:root {
+	/* Primary */
+	--ec-soft-red: hsl(10, 79%, 65%);
+	--ec-cyan: hsl(186, 34%, 60%);
+
+	/* Neutral */
+
+	--ec-dark-brown: hsl(25, 47%, 15%);
+	--ec-medium-brown: hsl(28, 10%, 53%);
+	--ec-cream: hsl(27, 66%, 92%);
+	--ec-very-pale-orange: hsl(33, 100%, 98%);
+
+	/* Custom */
+	--ec-custom-black: #0d0d0d;
+}
